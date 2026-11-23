@@ -6,5 +6,5 @@
 @media(max-width:370px){.main-nav a{font-size:.71rem}.lesson-grid{grid-template-columns:1fr}.lesson-card{min-height:130px}.wordmark small{font-size:.62rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.lesson-card,.mini-progress span{transition:none}}
 .qr-focus{position:relative;aspect-ratio:1;overflow:hidden;border-radius:14px;background:#fff}.qr-focus img{position:absolute;top:50%;left:50%;width:230%;height:auto;max-width:none;transform:translate(-50%,-38.4%)}
-h1,h2,h3{overflow-wrap:break-word;hyphens:auto}
+h1,h2,h3{overflow-wrap:break-word}
 @media(max-width:370px){.page-intro h1{font-size:2.3rem}}
